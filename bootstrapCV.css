@@ -1,0 +1,14 @@
+.row h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20%;
+    position: relative;
+    padding-right: 20%;
+}
+.row ul{
+    padding-left: 0;
+}
+.row ul li{
+    list-style-type: none;
+}
